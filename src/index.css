@@ -1,0 +1,14 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+*{
+  margin: 0;
+}
+.navbar{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  padding: 10px 0px;
+
+}
